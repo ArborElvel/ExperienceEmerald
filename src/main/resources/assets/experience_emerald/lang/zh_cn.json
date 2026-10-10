@@ -1,0 +1,8 @@
+{
+  "item.experience_emerald.infused_emerald": "蕴魔绿宝石",
+  "tooltip.experience_emerald.infused_emerald": "封存着 %s 点经验",
+  "tooltip.experience_emerald.infused_emerald.hint": "手持绿宝石右击，按可用经验批量转换；放入砂轮可安全取回",
+  "msg.experience_emerald.xp_insufficient": "经验不足，还差 %s 点",
+  "msg.experience_emerald.absorbed": "已吸收 %s 点经验",
+  "msg.experience_emerald.absorbed_batch": "已吸收 %s 点经验，转换了 %s 个经验绿宝石"
+}

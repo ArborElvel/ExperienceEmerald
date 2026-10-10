@@ -1,0 +1,8 @@
+{
+  "item.experience_emerald.infused_emerald": "Experience Emerald",
+  "tooltip.experience_emerald.infused_emerald": "Sealed with %s experience points",
+  "tooltip.experience_emerald.infused_emerald.hint": "Right-click an emerald to batch-convert as many as your available experience allows; grind it in a grindstone to return it safely",
+  "msg.experience_emerald.xp_insufficient": "Not enough experience, missing %s",
+  "msg.experience_emerald.absorbed": "Absorbed %s experience points",
+  "msg.experience_emerald.absorbed_batch": "Absorbed %s experience points and converted %s experience emeralds"
+}

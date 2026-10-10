@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "experience_emerald:item/infused_emerald"
+  }
+}
